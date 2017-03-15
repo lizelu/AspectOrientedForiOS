@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "20520DE996EE6101EA73B209F0038643A62699C7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "20520DE996EE6101EA73B209F0038643A62699C7" : 9223372036854775807,
+    "59B0DD3A0DC0B86D2A06DD4B68CBD1C997876614" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9FA424FA-AFF1-4696-90E2-672BD3BE6E79",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "20520DE996EE6101EA73B209F0038643A62699C7" : "AspectOrientedForiOS\/",
+    "59B0DD3A0DC0B86D2A06DD4B68CBD1C997876614" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AspectOrientedForiOS",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AspectOrientedForiOS.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lizelu\/AspectOrientedForiOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "20520DE996EE6101EA73B209F0038643A62699C7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lizelu\/CollectionViewControllerDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "59B0DD3A0DC0B86D2A06DD4B68CBD1C997876614"
+    }
+  ]
+}
